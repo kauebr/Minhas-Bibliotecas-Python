@@ -1,4 +1,4 @@
-def caludu(ano_inicial, ano_final):
+def ultimo_util(ano_inicial, ano_final):
     from datetime import date
     from calendar import monthrange
     from workalendar.america import Brazil
@@ -6,10 +6,7 @@ def caludu(ano_inicial, ano_final):
     datas = []
     primeiro_dia_mes = 1
     cal = Brazil()
-    print('Informe um intervalo de anos, e o programa vai te retornar uma lista com o último dia útil de cada mês')
-    ano_inicial = int(input('Digite o ano inicial AAAA: '))
-    ano_final = int(input('Digite o ano final AAAA: '))
-    for ano in range(ano_inicial, ano_final+1): 
+    for ano in range(ano_inicial, ano_final+1):
         for mes in meses.keys():
             ultimo_dia_mes = monthrange(ano,mes)
             ultimo_dia_mes = ultimo_dia_mes[1]
@@ -18,8 +15,7 @@ def caludu(ano_inicial, ano_final):
                 if cal.is_working_day(date(ano, mes, dia)) == True:
                     ultimo_dia_util = dia
                     datas.append(f"{dia}/{mes}/{ano}")
-                    # print(f'O último dia útil de {meses[mes]}/{ano} : {dia}') 
+                    # print(f'O último dia útil de {meses[mes]}/{ano} : {dia}')
                     break
     return datas
-datas = caludu(2021, 2022)
-print(f'Lista com todas as datas: {datas}')
+
