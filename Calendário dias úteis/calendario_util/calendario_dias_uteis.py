@@ -14,8 +14,14 @@ def ultimo_util(ano_inicial, ano_final):
             for dia in range(ultimo_dia_mes, 24, -1):
                 if cal.is_working_day(date(ano, mes, dia)) == True:
                     ultimo_dia_util = dia
-                    datas.append(f"{dia}/{mes}/{ano}")
-                    # print(f'O último dia útil de {meses[mes]}/{ano} : {dia}')
-                    break
+                    if mes == 12:
+                        dez = str(cal.add_working_days(date(ano, 12, 1), 15)) # colocando 15 dias uteis apos o dia 1 se for dezembro
+                        datas.append(f"{dez[5:11]}-{dez[0:4]}") # fatiando e invertendo a str para ficar no formato
+                        break
+                    else:
+                        datas.append(f"{mes}/{dia}/{ano}")
+                        # print(f'O último dia útil de {meses[mes]}/{ano} : {dia}')
+                        break
     return datas
+
 
