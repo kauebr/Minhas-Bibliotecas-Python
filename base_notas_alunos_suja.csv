@@ -1,0 +1,101 @@
+ID,Nome,Data da Prova,Nota,Sexo,Idade,Faixa Etária,Nível de Escolaridade dos Pais,Renda Familiar,Tem Internet em casa,Horas de Estudo por Dia,Faltas no mês,Participa de Atividades Extra,Região
+1,Vicente Nunes,2025-03-28,,Masculino,31.0,25-30, Superior ,"R$ 3.105,89",Sim,4.6,3,Sim,Sudeste
+2,Luigi Nogueira,,6.54,Feminino,24.0, 18-24 ,Superior,"R$ 5.381,83",Sim,1.1,5,Sim,Norte
+3,,2025-04-15,1.38,Masculino,30.0,18-24,Pós-graduação,"R$ 4.088,14",Sim,4.9,3,Não,Nordeste
+4,,2025-05-29,3.32,Masculino,26.0,31+,Superior,"R$ 6.452,27",Sim,0.4,5,Não,Sul
+5,Otávio Azevedo,2025-05-06,, Feminino ,27.0,31+, Pós-graduação ,"R$ 9.169,20",Não,3.2,12,Não,Norte
+6,Manuela Araújo,2025-04-09,3.06,Feminino,20.0,18-24,Fundamental,"R$ 4.444,91",Não,0.7,1,Sim,Norte
+7,Agatha Nunes,2025-04-07,5.55, Masculino ,28.0,25-30,Fundamental,"R$ 9.195,99",Não,6.7,3,Não,Sudeste
+8,Emanuelly Oliveira,2025-04-01,0.12,Masculino,26.0,18-24,Médio,"R$ 1.723,92",Não,4.5,15,Sim, Sudeste 
+9,#####,2025-04-29,3.7,Feminino,27.0,31+, Fundamental ,"R$ 4.740,93",Sim,6.2,4,Sim,Centro-Oeste
+10,Arthur das Neves,2025-05-17,4.05,Outro,, 25-30 ,Pós-graduação,,Sim,3.6,10,Não,Sul
+11,Nina Carvalho,2025-03-15,0.99,Outro,26.0,<18,Superior,"R$ 9.043,69",Não,5.6,3,Sim,Sul
+12,,2025-05-12,1.94,Outro,25.0,25-30,Médio,"R$ 4.146,84",Sim,6.7,2,Sim,Centro-Oeste
+13,Vitor Hugo Porto,2025-03-09,3.41, Masculino ,30.0,31+, Superior ,"R$ 4.450,82",Não,,13,Não, Norte 
+14,,2025-04-17,9.13, Outro ,22.0,25-30,Fundamental,"R$ 8.713,68",Não,4.3,11,Não, Nordeste 
+15,Bernardo Martins,2025-03-16,1.43,Feminino,29.0, <18 ,Fundamental,"R$ 9.757,31",Sim,5.5,14,Sim,Sul
+16,Valentina Moreira,2025-04-15,5.64,Feminino,20.0,25-30,Médio,"R$ 7.834,79",Sim,1.0,8,Não,Sul
+17,Amanda Vieira,2025-05-10,7.18, Outro ,26.0, 31+ , Superior ,"R$ 5.574,78",Não,1.0,14,Não,Nordeste
+18,,2025-06-06,6.08,Feminino,,31+, Fundamental ,"R$ 3.499,27",Não,,7,Não,Norte
+19,Vitória Viana,2025-04-04,9.35, Feminino ,29.0,18-24,Fundamental,"R$ 5.390,51",Não,3.9,0,Não,Sudeste
+20,Isabelly Freitas,2025-03-11,4.81,Masculino,24.0,31+,Superior,"R$ 6.551,79",Sim,4.2,4,Sim,Nordeste
+21,Sofia Fogaça,2025-03-16,3.78,Outro,22.0,31+,Fundamental,"R$ 1.705,90",Não,5.6,5,Sim,Centro-Oeste
+22,Marcelo Martins,,3.08,Outro,31.0,31+,Médio,"R$ 7.998,52",Sim,6.0,11,Não,Nordeste
+23,Ana Julia Costa,2025-05-30,5.15,Feminino,16.0,<18,Fundamental,,Sim,1.1,9,Sim,Nordeste
+24,João Guilherme Rocha,2025-05-14,erro,Feminino,30.0,<18, Pós-graduação ,"R$ 5.539,37",Não,5.9,15,Não,Sudeste
+25,,2025-05-20,8.46,Feminino,22.0,<18, Superior ,"R$ 7.967,39",Não,1.9,0,Sim,Centro-Oeste
+26,Juan Moura,2025-03-16,, nan ,30.0,31+,Pós-graduação,"R$ 4.754,67",Não,1.6,12,Não,Sudeste
+27,Luiz Gustavo da Luz,2025-03-25,5.47, Outro ,33.0,31+,Fundamental,"R$ 2.911,97",Sim,6.6,1,Não, Norte 
+28,Evelyn Pinto,2025-04-25,9.8,Feminino,27.0,18-24,Superior,"R$ 3.456,15",Não,2.0,7,Sim,Sul
+29,André da Luz,2025-03-27,0.24,Masculino,30.0, 18-24 ,Superior,"R$ 1.615,28",Não,3.2,3,Sim,Sudeste
+30,Alícia da Rosa,2025-05-20,2.94,Feminino,18.0,<18,Pós-graduação,"R$ 6.441,09",Não,7.6,8,Sim,Norte
+31,João Miguel Pires,2025-05-09,5.37, Outro ,18.0,25-30,Superior,"R$ 1.760,68",Sim,0.0,3,Sim, Centro-Oeste 
+32,Leonardo Cardoso,2025-05-01,5.87, Outro ,34.0,25-30,Superior,"R$ 8.110,22",Não,7.4,8,Não,Centro-Oeste
+33,Fernanda Gonçalves,2025-03-22,7.88,Feminino,,31+,Superior,,Sim,7.1,11,Não,Norte
+34,Enzo Araújo,2025-03-31,9.11,Outro,22.0,31+,Superior,"R$ 1.920,64",Sim,0.0,9,Sim,Centro-Oeste
+35,Catarina Gonçalves,2025-05-15,0.65,Feminino,29.0,31+,Fundamental,"R$ 5.732,35",Sim,6.4,13,Não, Norte 
+36,Gustavo Rezende,2025-03-24,2.28,Feminino,19.0,25-30,Fundamental,"R$ 942,43",Não,4.0,5,Sim, Centro-Oeste 
+37,Pedro Lucas da Paz,2025-06-04,4.17,Outro,24.0,18-24,Fundamental,"R$ 1.192,87",Sim,0.9,0,Não,Nordeste
+38,Cecília da Luz,2025-05-06,8.38,,24.0,25-30,Fundamental,,Sim,2.6,12,Sim, Nordeste 
+39,,2025-05-05,,Feminino,21.0,<18,Pós-graduação,"R$ 2.274,26",Não,5.1,3,Sim,Norte
+40,,2025-05-14,7.86, Outro ,20.0, 18-24 ,Médio,"R$ 8.136,65",Sim,4.8,6,Sim,Sudeste
+41,Isaac Carvalho,,9.92,Feminino,35.0,<18,Fundamental,"R$ 6.163,03",Sim,,1,Não,Norte
+42,Maria Clara Correia,2025-04-13,erro,Feminino,32.0, 31+ ,Fundamental,"R$ 3.274,08",Sim,3.3,1,Sim,Nordeste
+43,Caroline Vieira,2025-04-20,5.58,Outro,35.0,25-30,Superior,"R$ 8.339,77",Sim,5.6,8,Não,Centro-Oeste
+44,Luna Campos,2025-04-02,4.56,Feminino,,25-30,Superior,"R$ 4.773,33",Não,,4,Não,Norte
+45,Natália Carvalho,2025-05-19,9.15, Outro ,34.0,<18,Médio,,Sim,1.9,2,Sim,Nordeste
+46,Mariana Moreira,2025-06-04,5.9,Outro,,25-30,Fundamental,"R$ 4.265,26",Sim,1.2,0,Não,Centro-Oeste
+47,Thiago Farias,,4.79,Feminino,24.0,31+,Superior,,Sim,4.4,4,Não, Nordeste 
+48,Lívia Novaes,2025-06-05,6.1,Masculino,35.0,<18, Fundamental ,"R$ 6.815,64",Não,6.0,2,Não, Norte 
+49,,2025-04-12,9.67,Masculino,32.0,31+, Pós-graduação ,"R$ 8.708,23",Não,6.0,1,Sim,Nordeste
+50,Antônio Cavalcanti,2025-05-03,1.05,,33.0,31+,Superior,"R$ 4.711,15",Sim,3.0,13,Não,Sudeste
+51,Ana Barbosa,2025-04-30,8.83,Feminino,35.0,<18,Pós-graduação,"R$ 3.589,88",Não,6.8,2,Sim,Sul
+52,Isaac Correia,2025-03-13,5.37, Masculino ,24.0,31+,Pós-graduação,"R$ 4.733,34",Sim,6.1,7,Não,Centro-Oeste
+53,Elisa Moreira,2025-05-23,6.3,,21.0, 31+ ,Pós-graduação,"R$ 2.420,74",Não,6.7,14,Não, Sul 
+54,Amanda Cardoso,,2.76,Outro,19.0,18-24, Médio ,"R$ 4.886,56",Não,7.3,12,Não, Nordeste 
+55,Maria Clara da Costa,2025-04-03,,Outro,29.0,25-30,Fundamental,"R$ 5.698,09",Não,,8,Não, Sudeste 
+56,Bárbara Martins,2025-03-15,6.58, Masculino ,35.0,18-24,Médio,"R$ 1.372,44",Sim,4.8,11,Não, Sul 
+57,Lucca Gonçalves,,,Masculino,21.0,<18, Superior ,,Sim,2.4,2,Sim,Sul
+58,Cecília Araújo,2025-05-05,1.09,Masculino,23.0,<18,Superior,"R$ 1.801,52",Não,6.3,13,Sim,Sudeste
+59,,2025-05-12,,Feminino,,18-24,Fundamental,"R$ 2.506,39",Sim,8.0,3,Não,Sul
+60,Ana Luiza da Cunha,2025-06-02,6.46,Masculino,27.0,<18,Superior,"R$ 5.338,43",Não,3.1,12,Não,Nordeste
+61,Paulo Pereira,2025-04-07,8.63,Feminino,33.0,18-24,Médio,"R$ 2.800,31",Não,3.6,6,Sim, Norte 
+62,Vitória da Cunha,2025-03-17,2.61, Masculino ,34.0,<18,Médio,,Não,5.2,15,Sim,Sudeste
+63,Augusto Pinto,2025-03-15,erro,Masculino,26.0,<18,Superior,"R$ 7.328,21",Não,4.1,10,Não,Nordeste
+64,Yago Farias,2025-04-06,2.69,Outro,23.0,31+,Fundamental,"R$ 9.659,42",Sim,4.5,4,Não, Sudeste 
+65,Yago Araújo,2025-03-17,0.94,Outro,20.0,18-24,Médio,"R$ 5.204,72",Não,5.8,6,Não,Norte
+66,Lucca Costa,2025-03-17,8.85,Masculino,28.0,18-24, Superior ,"R$ 5.574,55",Não,,8,Sim,Centro-Oeste
+67,Vicente Carvalho,2025-04-25,9.01,,28.0,31+,Superior,"R$ 8.453,86",Sim,3.0,9,Sim,Nordeste
+68,Luiz Felipe Duarte,2025-05-19,3.26, Masculino ,18.0,<18,Superior,"R$ 9.094,43",Sim,,5,Não,Norte
+69,Melissa Moraes,2025-04-14,1.36,Feminino,23.0,25-30, Pós-graduação ,,Não,3.5,3,Não,Nordeste
+70,Valentina da Rocha,2025-04-09,,Feminino,,18-24,Pós-graduação,"R$ 3.440,80",Não,1.7,15,Sim,Nordeste
+71,Lorena Porto,2025-05-25,2.4,Outro,32.0,25-30,Fundamental,"R$ 9.293,32",Não,0.6,0,Não,Nordeste
+72,Vitor Monteiro,2025-05-04,5.2,Feminino,,18-24,Fundamental,"R$ 1.095,04",Sim,4.0,3,Sim,Centro-Oeste
+73,André Farias,2025-03-22,4.9,Feminino,35.0,18-24,Superior,"R$ 7.854,16",Sim,7.4,11,Não,Nordeste
+74,Júlia Nascimento,2025-03-16,9.95,Masculino,17.0,31+, Médio ,"R$ 7.246,31",Não,6.2,12,Não,Sudeste
+75,Luigi Ribeiro,2025-04-12,3.57,Masculino,29.0,31+,Pós-graduação,"R$ 6.136,70",Não,0.4,7,Sim,Norte
+76,Ana Julia da Conceição,2025-05-24,5.53, Masculino ,34.0, 18-24 ,Médio,"R$ 7.747,10",Não,3.8,0,Não,Nordeste
+77,#####,2025-05-23,2.99,,20.0, <18 ,Fundamental,"R$ 4.686,06",Sim,,0,Não, Sudeste 
+78,Ana Clara Nascimento,2025-05-27,erro, Feminino ,18.0, <18 ,Pós-graduação,"R$ 1.025,02",Não,3.4,6,Não,Sul
+79,Pedro Miguel Santos,2025-05-08,0.95, Feminino ,23.0,18-24,Superior,"R$ 9.118,22",Sim,1.9,15,Não,Norte
+80,Anthony Cavalcanti,2025-05-17,0.75,Outro,22.0,25-30,Médio,"R$ 7.325,66",Sim,6.8,5,Sim,Sudeste
+81,Heloísa Cardoso,2025-05-12,9.72,Feminino,25.0,25-30,Pós-graduação,"R$ 3.051,52",Sim,3.0,12,Não, Nordeste 
+82,Theo Santos,2025-05-08,2.82,Outro,32.0,<18, Fundamental ,"R$ 1.028,06",Não,1.5,10,Sim,Centro-Oeste
+83,Luiz Gustavo Rocha,2025-04-05,6.95, Masculino ,26.0,25-30, Superior ,"R$ 4.730,08",Não,0.4,2,Sim,Norte
+84,Sofia da Conceição,2025-06-05,9.81, Outro ,17.0, <18 ,Superior,"R$ 7.466,84",Sim,,6,Não,Norte
+85,Luiza Peixoto,2025-04-01,4.8,Feminino,16.0,31+,Médio,,Não,0.2,14,Não,Centro-Oeste
+86,Sophie da Costa,,9.6,,,18-24,Fundamental,"R$ 5.873,87",Não,7.0,5,Não,Sudeste
+87,Kevin Costa,2025-05-05,,Feminino,16.0,31+,Médio,"R$ 2.626,46",Não,1.0,5,Sim,Sudeste
+88,Miguel Cavalcanti,2025-03-16,1.59,Feminino,29.0,25-30,Médio,"R$ 8.754,69",Não,3.1,3,Sim,Centro-Oeste
+89,Bárbara da Mota,,5.12, Feminino ,24.0,31+,Fundamental,"R$ 6.800,78",Sim,5.4,14,Sim, Norte 
+90,Gabriela Melo,2025-04-09,1.6,Outro,31.0,31+,Médio,"R$ 4.078,40",Não,7.7,0,Sim,Centro-Oeste
+91,Maria Luiza Duarte,2025-04-13,9.07, Outro ,19.0,<18,Superior,"R$ 8.008,52",Sim,0.1,11,Sim, Norte 
+92,Pedro Ribeiro,,8.18,,20.0,31+,Pós-graduação,"R$ 4.731,95",Sim,4.2,4,Sim,Centro-Oeste
+93,Emilly Barbosa,2025-04-22,erro,Feminino,23.0,18-24,Pós-graduação,"R$ 9.076,91",Não,3.4,14,Sim,Nordeste
+94,Ana Beatriz Rezende,2025-05-17,4.16,,27.0, <18 ,Fundamental,"R$ 8.197,99",Não,1.9,2,Sim, Nordeste 
+95,Matheus Ramos,2025-05-04,8.24,Outro,20.0, <18 , Superior ,"R$ 8.805,28",Não,1.4,15,Não,Centro-Oeste
+96,Maria Sophia da Conceição,2025-05-08,5.78,,17.0,25-30,Fundamental,"R$ 1.887,30",Não,,9,Sim,Sul
+97,Larissa Cavalcanti,2025-06-02,4.77,Masculino,26.0,31+,Fundamental,"R$ 8.955,98",Sim,6.8,9,Não,Sul
+98,Maria Luiza Caldeira,2025-04-15,5.31,Masculino,33.0, 31+ ,Superior,"R$ 2.904,58",Sim,7.4,3,Não,Sul
+99,Pedro Henrique Farias,,1.51,Feminino,16.0,<18,Pós-graduação,"R$ 6.230,61",Não,6.5,1,Sim,Sudeste
+100,Gustavo Henrique Campos,2025-04-01,6.1,Feminino,,18-24,Superior,"R$ 9.952,20",Sim,3.2,5,Não,Norte
